@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.titulo_ozark{
+    color: white;
+    text-align: center;
+        font-family: "Fredericka the Great", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 300%;
+      
+          
+      
+    
+}
+
+.titulo_dos{
+    color: #FF8080;
+    font-family: "Fredericka the Great", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: larger;
+    
+
+}
+.titulo_tabla{
+    color: azure;
+    font-size: x-large;
+}
+table{
+    
+    text-align: center;
+    margin: 0 auto;
+}
+th{
+    background-color: #192812;
+    color: #CDE7C0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    color:#CDE7C0 ;
+    text-shadow:2px 2px rgb(3, 50, 18);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boton_uno{
+    background-color: brown;
+    color: #CDE7C0;
+    font-size: large;
+    border-radius: 5px;
+    
+}
